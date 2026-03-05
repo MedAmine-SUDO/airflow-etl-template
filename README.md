@@ -123,4 +123,4 @@ This template is based on patterns used in production at a French EdTech platfor
 
 ## Contact
 
-Open to data engineering contracts — [LinkedIn](https://linkedin.com/in/mabenafia) · [Upwork](https://upwork.com/freelancers/mabenafia)
+Open to data engineering contracts — [LinkedIn](https://www.linkedin.com/in/mabenafia/) · [Upwork](https://www.upwork.com/freelancers/~01de6a80acbbaa49db)
